@@ -8,9 +8,9 @@ description: |
   Gesang für Ihre Veranstaltung
 owner: Jürgen Ankele # or company name
 first_published: 2021 # if migrating another site, the year of your first publish
-email: your-email@domain.com
+email: juergen.ankele@gmx.net
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "https://mawe91.github.io/juergen_ankele/" # the base hostname & protocol for your site
 social:
   #twitter: https://twitter.com/<username>
   #github: https://github.com/<username>
